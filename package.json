@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://sood-archive.github.io/finance-dashboard-ui",
+  "homepage": "https://divyanshsood22.github.io/finance-dashboard-ui",
   "scripts": {
     "build": "vite build",
     "dev": "vite",
