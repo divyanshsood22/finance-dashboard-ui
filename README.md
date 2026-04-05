@@ -20,12 +20,12 @@ An interactive finance dashboard with a cool and minimal landing page, built wit
 <br>
 
 ## 🟢 Live Demo
-[]()
+[Finance DashBoard UI](https://divyanshsood22.github.io/finance-dashboard-ui/)
 
 <br>
 
 > [!IMPORTANT]
-> **Admin Credentials :** <br> Username : `sood` <br> Password : `zorvyn`
+> **Admin Credentials :-** <br> Username : `sood` <br> Password : `zorvyn`
 
 <br>
 
