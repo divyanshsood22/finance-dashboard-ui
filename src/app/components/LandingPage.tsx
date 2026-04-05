@@ -240,7 +240,7 @@ export default function LandingPage() {
               <ul className="space-y-2">
                 <li>
                   <a
-                    href="https://github.com/Sood-Archive/finance-dashboard-ui/"
+                    href="https://github.com/divyanshsood22/finance-dashboard-ui/"
                     className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors flex items-center gap-2"
                   >
                     <FileText className="w-4 h-4" />
@@ -249,7 +249,7 @@ export default function LandingPage() {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/Sood-Archive/finance-dashboard-ui/"
+                    href="https://github.com/divyanshsood22/finance-dashboard-ui/"
                     className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors flex items-center gap-2"
                   >
                     <FileText className="w-4 h-4" />
@@ -258,7 +258,7 @@ export default function LandingPage() {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/Sood-Archive/finance-dashboard-ui/"
+                    href="https://github.com/divyanshsood22/finance-dashboard-ui/"
                     className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors flex items-center gap-2"
                   >
                     <FileText className="w-4 h-4" />
