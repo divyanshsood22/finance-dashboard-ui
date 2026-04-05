@@ -19,16 +19,6 @@ An interactive finance dashboard with a cool and minimal landing page, built wit
 
 <br>
 
-## 🟢 Live Demo
-[Finance DashBoard UI](https://divyanshsood22.github.io/finance-dashboard-ui/)
-
-<br>
-
-> [!IMPORTANT]
-> **Admin Credentials :-** <br> Username : `sood` <br> Password : `zorvyn`
-
-<br>
-
 ## 💠 Features
 
 - A modern, responsive landing page with gradient animations, a bento grid layout, and smooth scrolling elements made with Tailwind CSS and custom animations.
@@ -57,6 +47,16 @@ npm install
 ```bash
 npm run dev
 ```
+
+<br>
+
+## 🟢 Live Demo
+[Finance DashBoard UI](https://divyanshsood22.github.io/finance-dashboard-ui/)
+
+<br>
+
+> [!IMPORTANT]
+> **Admin Credentials :-** <br> Username : `sood` <br> Password : `zorvyn`
 
 <br>
 
