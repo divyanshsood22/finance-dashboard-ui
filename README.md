@@ -62,6 +62,9 @@ An interactive finance dashboard with a cool and minimal landing page, built wit
 ## ⚙️ Setup - To Run Locally
 
 > **Step 1 :** Clone / Fork this repo
+```bash
+git clone https://github.com/divyanshsood22/finance-dashboard-ui.git
+```
 
 > **Step 2 :** Install Dependencies
 
