@@ -38,7 +38,9 @@ An interactive finance dashboard with a cool and minimal landing page, built wit
 
 **1. Authentication**
 
-> `User → Signup / Login → Validate → Store in Context → Save in localStorage → Redirect to Dashboard`
+```
+User → Signup / Login → Validate → Store in Context → Save in localStorage → Redirect to Dashboard
+```
 
 - For User :
   - Sign up with his own email & password
@@ -49,13 +51,17 @@ An interactive finance dashboard with a cool and minimal landing page, built wit
 
 
 **2. Transactions**
-> ` Admin adds or modifies transaction(s) -> Goes to localStorage `
+``` 
+Admin adds or modifies transaction(s) -> Goes to localStorage 
+```
 
 - User can only view transactions.
 - Admin can add, edit, delete transactions.
 
 **3. Insights & Graphs**
-> `Data in localStorage -> updates the financial table -> charts & bar graphs are modified -> insights are taken from the charts`
+```
+Data in localStorage -> Updates the Financial Table -> Charts & Bar graphs modified -> Insights get updated
+```
 
 <br>
 
