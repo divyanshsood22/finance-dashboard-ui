@@ -13,7 +13,6 @@ An interactive finance dashboard with a cool and minimal landing page, built wit
 ▫️DataBase : Local Storage<br>
 ▫️Theme : Shadcn-UI
 
-
 > [!NOTE]
 > This is a frontend-only application with client-side state management and local storage for data persistence.
 
@@ -35,15 +34,43 @@ An interactive finance dashboard with a cool and minimal landing page, built wit
 
 <br>
 
+## 💠 How it works
+
+**1. Authentication**
+
+> `User → Signup / Login → Validate → Store in Context → Save in localStorage → Redirect to Dashboard`
+
+- For User :
+  - Sign up with his own email & password
+  - Login with email & password
+- For Admin :
+  - Username : `sood`
+  - Password : `zorvyn`
+
+
+**2. Transactions**
+> ` Admin adds or modifies transaction(s) -> Goes to localStorage `
+
+- User can only view transactions.
+- Admin can add, edit, delete transactions.
+
+**3. Insights & Graphs**
+> `Data in localStorage -> updates the financial table -> charts & bar graphs are modified -> insights are taken from the charts`
+
+<br>
+
 ## ⚙️ Setup - To Run Locally
+
 > **Step 1 :** Clone / Fork this repo
 
 > **Step 2 :** Install Dependencies
+
 ```bash
 npm install
 ```
 
 > **Step 3 :** Run the vite dev server
+
 ```bash
 npm run dev
 ```
@@ -51,16 +78,13 @@ npm run dev
 <br>
 
 ## 🟢 Live Demo
+
 [Finance DashBoard UI](https://divyanshsood22.github.io/finance-dashboard-ui/)
 
 <br>
 
-> [!IMPORTANT]
-> **Admin Credentials :-** <br> Username : `sood` <br> Password : `zorvyn`
-
-<br>
-
 ## 💠 Project Architecture
+
 ```
 src/
 ├── app/
